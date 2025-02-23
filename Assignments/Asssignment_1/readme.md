@@ -11,6 +11,10 @@ Turing predicted that by 2000, a computer might have a 30% chance of fooling som
 
 Turing’s work continues to challenge us. The objections he addressed—about formal rules, consciousness, and understanding—remain central to AI discussions. As technology advances, new ethical and philosophical questions emerge, highlighting that the quest for intelligent machines is as much about ethics and philosophy as it is about engineering.
 
+
+
+
+
 Question 03:
 
 Domain: Autonomous Delivery Robot in an Urban Environment
@@ -27,6 +31,10 @@ Environment Characterization:
 
 Best Agent Architecture:
 A hybrid architecture combining reactive (e.g., obstacle avoidance) and deliberative (e.g., route planning) components, supported by machine learning for adaptability.
+
+
+
+
 
 Question 04:
 
@@ -50,6 +58,10 @@ Question 04:
 
 7. True.  
    Example: A thermostat is rational in both home heating and lab temperature control.
+
+
+
+
 
 Question 02 :
  1. Playing a decent game of table tennis (ping-pong).
