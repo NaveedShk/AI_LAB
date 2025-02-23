@@ -99,6 +99,11 @@ Challenges for Infeasible Tasks:
 - Constructing buildings: Coordination and handling unforeseen issues.
 
 
+Question 05 output:
+![image](https://github.com/user-attachments/assets/eae6ec19-4098-4ae7-a330-01f92c1949ae)
+
+
+
 
 
 
