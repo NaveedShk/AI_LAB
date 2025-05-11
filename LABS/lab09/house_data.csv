@@ -1,0 +1,11 @@
+square_footage,bedrooms,bathrooms,age,neighborhood,price
+1400,3,2,10,Downtown,300000
+1600,3,2,5,Suburb,320000
+1800,4,3,8,Downtown,400000
+1200,2,1,20,Suburb,250000
+2200,4,3,6,Uptown,450000
+2000,3,2,15,Uptown,380000
+1700,3,2,12,Suburb,310000
+1900,4,3,7,Downtown,420000
+1500,3,2,10,Uptown,340000
+1300,2,1,30,Suburb,230000
